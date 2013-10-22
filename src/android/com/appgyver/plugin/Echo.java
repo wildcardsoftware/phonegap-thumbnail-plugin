@@ -1,4 +1,4 @@
-package org.apache.cordova.plugin;
+package com.appgyver.plugin;
 
 import org.apache.cordova.api.CordovaPlugin;
 import org.apache.cordova.api.PluginResult;
